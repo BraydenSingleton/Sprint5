@@ -1,0 +1,12 @@
+Board has been initialized at size 4.
+Game mode has been switched to Simple.
+Player 1 (S, Human): (0,1)
+Player 2 (S, Computer): (2,1)
+Player 1 (S, Human): (1,2)
+Player 2 (S, Computer): (2,3)
+Player 1 (S, Human): (1,1)
+Player 2 (S, Computer): (0,3)
+Player 1 (O, Human): (0,0)
+Player 2 (S, Computer): (3,0)
+Player 1 (O, Human): (0,2)
+Player 1 has won!
